@@ -1,1 +1,1 @@
-# Machine-Learning-Suport-Vector-Machine-Aplicaciones
+# Machine-Learning-Support-Vector-Machine-Aplicaciones
